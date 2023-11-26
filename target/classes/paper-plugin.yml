@@ -1,0 +1,4 @@
+name: DropItem
+version: '1.0-SNAPSHOT'
+main: io.github.yclk.dropitem.DropItem
+api-version: '1.20'
